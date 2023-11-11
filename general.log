@@ -1,0 +1,17 @@
+[2023-11-09 23:31:45 INFO]: install::setup-logging ended
+================
+[2023-11-09 23:31:45 INFO]: install::start-up started
+[2023-11-09 23:31:45 INFO]: install::start-up build image
+[2023-11-09 23:36:27 INFO]: install::root-check started
+[2023-11-09 23:36:27 INFO]: install::root-check ended
+================
+[2023-11-09 23:36:27 INFO]: install::docker-check started
+[2023-11-09 23:36:27 INFO]: install::docker-check ended
+================
+[2023-11-09 23:36:27 INFO]: install::docker-compose-check started
+[2023-11-09 23:36:27 INFO]: install::docker-compose-check ended
+================
+[2023-11-09 23:36:27 INFO]: install::tear-down started
+[2023-11-09 23:36:27 INFO]: install::tear-down stoping services
+[2023-11-09 23:36:27 INFO]: install::tear-down ended
+================
